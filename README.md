@@ -1,7 +1,6 @@
-# farkadadnanrobot.github.io
+# Robot Trajectory Planning Based on a Combination of Artificial Intelligence Algorithms
 
-Robot Trajectory Planning Based on a Combination of Artificial Intelligence Algorithms
- 
+  
 - https://linktr.ee/farkadadnan
 -  By:Farkad Adnan فرقد عدنان - 
  - E-mail: farkad.hpfa95@gmail.com 
