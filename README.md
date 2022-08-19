@@ -71,6 +71,17 @@ Neural networks are one of the modern smart tools that are used in robot locatio
 - يمكن تطبيق تعيين المسار فقط عندما تكون خريطة البيئة معروفة. يمكن فقط لروبوتات التنقل استخدام طرق تخطيط مسار التغطية المثلى [90] - [93] من أجل تحقيق تغطية منهجية للمساحة الخالية بأكملها. تختلف مشكلة مسار التغطية الكاملة عن مشكلة تخطيط المسار الأمثل. إذا كان الهدف من تخطيط المسار الأمثل هو العثور على المسار الأمثل بين النقطة الأولية والنقطة المستهدفة ، فإن الهدف من التغطية الكاملة هو العثور على المسار الأمثل بحيث يغطي الروبوت المنطقة بأكملها. إذا تم تقسيم المنطقة إلى شبكة من الخلايا (يعتمد حجم الخلية على أبعاد الروبوت) ، فإن الهدف من التغطية المثلى هو زيارة كل خلية مرة واحدة على الأقل ، ومن الناحية المثالية مرة واحدة فقط. تُعرف هذه المشكلة أيضًا بمشكلة الباعة الجائلين. بمجرد العثور على المسار الأمثل ، يمكن للروبوت أن يجتاز المساحة بشكل منهجي وبالتالي يكون أكثر كفاءة في الوقت والطاقة.
 ![شسشس](https://user-images.githubusercontent.com/35774039/185596971-f662afd1-1582-43fa-9cdc-d0c009afeb91.jpg)
 
+ 
+#   This is where the story begins- من هنا بدأت القصة 
+
+
+https://user-images.githubusercontent.com/35774039/185595387-f0293b53-6615-4038-b8e1-9879d93bcba5.MOV
+# the work
+
+
+https://user-images.githubusercontent.com/35774039/185601336-1bb8bbc2-21f8-4168-a461-a2fcabb38529.mp4
+
+
 ## Reference
 - [1]	 Latombe, J.C. (2010). Robot Motion Planning. Kluwer, ISBN 0-7923-9129-2, Boston.
 - [2]	Bekey, G. A., Goldberg, K.Y. (2011). Neural Networks in Robotics. Kluwer Academic Publishers, ISBN 0-7923-9268-X, Boston.
@@ -87,17 +98,6 @@ Neural networks are one of the modern smart tools that are used in robot locatio
 + three.js - [https://threejs.org/](https://threejs.org/)
 + FileSaver.js - [https://github.com/eligrey/FileSaver.js/](https://github.com/eligrey/FileSaver.js/)
 + Materialize - [http://materializecss.com/](http://materializecss.com/)
-#   This is where the story begins- من هنا بدأت القصة 
-
-
-https://user-images.githubusercontent.com/35774039/185595387-f0293b53-6615-4038-b8e1-9879d93bcba5.MOV
-# the work
-
-
-https://user-images.githubusercontent.com/35774039/185601336-1bb8bbc2-21f8-4168-a461-a2fcabb38529.mp4
-
-
-
 ## Contributing
 
 Please feel free to use it if you are interested in fixing issues and contributing directly to the code base.
